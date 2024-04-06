@@ -1,3 +1,17 @@
+April 5, 2024
+
+
+  App will be able to summarize any file that is downloaded.
+
+  App should wait for a user to click download (does Courtlistener do this?), then save the file, and use the API to submit the file to an LLM to summarize
+
+
+  OUTLINE
+
+
+1.
+
+
 # courtlistener-download
 
 Browser extension to download all files related to one docket entry on CourtListener.
